@@ -4,5 +4,5 @@
 
 ## Proposed articles
 
-## Previous jc
+## Previous sessions
 
