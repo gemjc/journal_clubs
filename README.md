@@ -1,1 +1,8 @@
-# journal_clubs
+# Journal clubs
+
+## Future dates 
+
+## Proposed articles
+
+## Previous jc
+
