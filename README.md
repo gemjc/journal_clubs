@@ -7,6 +7,7 @@ Series of journal clubs about gender equity with a specific focus on issues face
 #### 2025-11-28, 1 p.m.
 ["Who Has to Work Harder, Girls or Boys?" Children's Gender Stereotypes About Required Effort in Math and Reading, Lassetter et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/desc.70025)\
 This work explores how gender stereotypes emerge from an early age and affect women's pursuit of prestigious careers. Previous research has shown that these stereotypes are endorsed by, and influence the interests of, children as young as six [(Bian et al., 2017)](https://www.science.org/doi/full/10.1126/science.aah6524). In this article, the authors examine the relationship between the effort required in maths and reading, and self-efficacy, interest, and anxiety in these subjects, as well as how these factors evolve with age. Younger children reported that effort was less of a requirement for their own gender than for others, but this effect disappeared in older children. Children who believed that their gender needed to work harder to be good at a subject also reported lower self-efficacy in that subject. Older children reported lower interest in it. 
+
 Presented by Violetta Zujovic
 
 #### 2026-01-30, 1 p.m.
