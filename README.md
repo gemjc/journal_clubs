@@ -1,6 +1,6 @@
 # Journal clubs
 
-Series of journal clubs about gender equity with a specific focus on issues faced in academia.
+A series of online journal clubs focusing on gender equity issues, specifically in academia.
 
 ## Future dates 
 
