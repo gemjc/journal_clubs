@@ -1,5 +1,7 @@
 # Journal clubs
 
+Series of journal clubs about gender equity with a specific focus on issues faced in academia.
+
 ## Future dates 
 
 #### 2025-11-28, 1 p.m.
