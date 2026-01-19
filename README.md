@@ -5,11 +5,12 @@ Series of journal clubs about gender equity with a specific focus on issues face
 ## Future dates 
 
 #### 2025-11-28, 1 p.m.
-["Who Has to Work Harder, Girls or Boys?" Children's Gender Stereotypes About Required Effort in Math and Reading](https://onlinelibrary.wiley.com/doi/10.1111/desc.70025)\
+["Who Has to Work Harder, Girls or Boys?" Children's Gender Stereotypes About Required Effort in Math and Reading, Lassetter et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/desc.70025)\
 Presented by Violetta Zujovic
 
 #### 2026-01-30, 1 p.m.
-Organized by Cerco, Toulouse
+[Closing the scissor-shaped curve: Strategies to promote gender equality in academia, Joyce et al., 2024](https://pubmed.ncbi.nlm.nih.gov/38490175/)\
+Presented by Antoine Grimaldi 
 
 #### 2026-02-27, 1 p.m.
 Organized by 
