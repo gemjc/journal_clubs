@@ -6,6 +6,7 @@ Series of journal clubs about gender equity with a specific focus on issues face
 
 #### 2025-11-28, 1 p.m.
 ["Who Has to Work Harder, Girls or Boys?" Children's Gender Stereotypes About Required Effort in Math and Reading, Lassetter et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/desc.70025)\
+This work explores how gender stereotypes emerge from an early age and affect women's pursuit of prestigious careers. Previous research has shown that these stereotypes are endorsed by, and influence the interests of, children as young as six [(Bian et al., 2017)](https://www.science.org/doi/full/10.1126/science.aah6524). In this article, the authors examine the relationship between the effort required in maths and reading, and self-efficacy, interest, and anxiety in these subjects, as well as how these factors evolve with age. Younger children reported that effort was less of a requirement for their own gender than for others, but this effect disappeared in older children. Children who believed that their gender needed to work harder to be good at a subject also reported lower self-efficacy in that subject. Older children reported lower interest in it. 
 Presented by Violetta Zujovic
 
 #### 2026-01-30, 1 p.m.
@@ -33,7 +34,8 @@ Organized by
 
 ### 2024-2025 :
 
-**2025-04-16 :**  [Recommendations for a Better Understanding of Sex and Gender in the Neuroscience of Mental Health, Wierenga et al. 2023](https://www.scienceopen.com/document_file/3d178e5f-b84c-4569-b3c1-c34312f9d7b8/PubMedCentral/3d178e5f-b84c-4569-b3c1-c34312f9d7b8.pdf).
+**2025-04-16 :**  [Recommendations for a Better Understanding of Sex and Gender in the Neuroscience of Mental Health, Wierenga et al. 2023](https://www.scienceopen.com/document_file/3d178e5f-b84c-4569-b3c1-c34312f9d7b8/PubMedCentral/3d178e5f-b84c-4569-b3c1-c34312f9d7b8.pdf). 
+The interplay between sex and sociocultural gender-related mechanisms that influence the manifestation and progression of mental health conditions is particularly intricate and cannot be fully captured by animal models. Historically, there is an overrepresentation of male individuals in both animal studies and human preclinical and clinical trials. It can cause problems with the conclusions of studies, for example, with regard to neurobiological vulnerability to mental health problems, or with the discovery of treatments applicable to both groups. While this balance in representation is evolving in the right direction, only a small proportion of studies report sex or gender as a factor. They provide recommendations for methodologies, translational research, and stakeholder involvement. See [supplementary materials](documents/supplementary_wierenga.pdf) for information. 
 
 **2025-03-19 :** [When mentoring matters: a French mentoring program for women in science, Batut et al. 2021](https://hal.science/hal-03413801/document). Julie Batut was invited to present her work about this mentoring program to support women in science. 
 
