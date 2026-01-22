@@ -11,7 +11,7 @@ This work explores how gender stereotypes emerge from an early age and affect wo
 Presented by Violetta Zujovic
 
 #### 2026-01-30, 1 p.m.
-[Closing the scissor-shaped curve: Strategies to promote gender equality in academia, Joyce et al., 2024](https://pubmed.ncbi.nlm.nih.gov/38490175/)\
+[Sex and gender bias in the experimental neurosciences: the case of the maternal immune activation model, Coiro & Pollak, 2019](https://pubmed.ncbi.nlm.nih.gov/30765690/)\
 Presented by Antoine Grimaldi 
 
 #### 2026-02-27, 1 p.m.
