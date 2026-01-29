@@ -14,6 +14,8 @@ Presented by Violetta Zujovic
 [Sex and gender bias in the experimental neurosciences: the case of the maternal immune activation model, Coiro & Pollak, 2019](https://pubmed.ncbi.nlm.nih.gov/30765690/)\
 Presented by Antoine Grimaldi 
 
+https://www.youtube.com/results?search_query=dana+rubi+levy+symposium
+
 #### 2026-02-27, 1 p.m.
 Organized by 
 
