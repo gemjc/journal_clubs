@@ -1,6 +1,8 @@
 # Journal clubs
 
-A series of online journal clubs focusing on gender equity issues, specifically in academia.
+A series of online journal clubs focusing on gender equity issues, specifically in academia. 
+
+Visio link : https://visio.numerique.gouv.fr/nco-acff-qza 
 
 ## Future dates 
 
@@ -12,12 +14,13 @@ Presented by Violetta Zujovic
 
 #### 2026-01-30, 1 p.m.
 [Sex and gender bias in the experimental neurosciences: the case of the maternal immune activation model, Coiro & Pollak, 2019](https://pubmed.ncbi.nlm.nih.gov/30765690/)\
+Preclinical neuroscience research has historically over-relied on male animals, largely due to the assumption that females introduce greater variability because of estrous (estrogen) cycles—a belief that empirical data do not consistently support (see [this video](https://www.youtube.com/results?search_query=dana+rubi+levy+symposium) for an example showing that intra individual variablity is actually greater in male mice). This male bias can limit the generalizability of findings and contribute to overlooked sex-specific effects, including adverse outcomes that may disproportionately affect women. Focusing on the maternal immune activation (MIA) model, the authors show that despite policy initiatives requiring sex to be considered as a biological variable, many studies still fail to systematically analyze or report sex differences, reflecting persistent structural bias in experimental design and reporting.
+
 Presented by Antoine Grimaldi 
 
-https://www.youtube.com/results?search_query=dana+rubi+levy+symposium
-
 #### 2026-02-27, 1 p.m.
-Organized by 
+[Quantifying Gender Bias in Large Language Models Using Information-Theoretic and Statistical Analysis](https://www.mdpi.com/2078-2489/16/5/358)
+Organized by Attila Ignacz
 
 #### 2026-03-27, 1 p.m.
 Organized by INT, Marseille
