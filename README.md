@@ -22,8 +22,17 @@ Presented by Antoine Grimaldi
 [Quantifying Gender Bias in Large Language Models Using Information-Theoretic and Statistical Analysis](https://www.mdpi.com/2078-2489/16/5/358)
 Organized by Attila Ignacz
 
-#### 2026-03-27, 1 p.m.
-Organized by INT, Marseille
+#### 2026-03-27, 1 p.m. : Parenthood in academia
+
+Gender inequalities in academia are well documented, yet their underlying mechanisms remain incompletely understood. This journal club explores the hypothesis that parenthood constitutes a critical turning point in the emergence of these disparities.
+
+Based on three complementary studies ([Zheng et al. 2022](https://elifesciences.org/articles/78909); [Morgan et al. 2021](https://www.science.org/doi/10.1126/sciadv.abd1996); [Hong et al. 2025](https://arxiv.org/abs/2504.13923)), we’ll first show that gender gaps in productivity, collaboration, and career satisfaction are largely concentrated among parents, rather than being universal across all academics ([Zheng et al. 2022](https://elifesciences.org/articles/78909)). We’ll then examine longitudinal evidence demonstrating that childbirth acts as a causal trigger of divergence: while men and women display similar productivity trajectories prior to parenthood, a sharp decline is observed for mothers, but not for fathers, immediately following childbirth ([Morgan et al. 2021](https://www.science.org/doi/10.1126/sciadv.abd1996)).
+
+Building on these findings, we’ll investigate the mechanisms underlying this “parenthood gap” ([Hong et al. 2025](https://arxiv.org/abs/2504.13923)). Mediation analyses identify childcare responsibilities as a significant pathway linking gender to career outcomes, affecting both subjective (satisfaction, recognition) and objective (productivity, collaboration) measures. Moderation analyses further reveal that gender role beliefs and institutional policies shape these dynamics in complex and sometimes asymmetric ways. Notably, more egalitarian beliefs are associated with reduced childcare burden for women, but not for men, highlighting a disconnect between attitudes and behaviors. Similarly, institutional policies such as parental leave or tenure-clock extensions exhibit mixed effects, suggesting that policy design alone is insufficient to eliminate inequalities.
+
+Together, these studies support a model in which gender inequality in academia emerges as a cascade: structural constraints preceding parenthood, a causal productivity shock at childbirth, and sustained disparities driven by unequal distribution of care. This multi-level perspective emphasizes the need to align cultural norms, institutional structures, and policy interventions to effectively address gender inequalities in academic careers.
+
+Organized by Rémi Bos, INT, Marseille
 
 #### 2026-04-24, 1 p.m.
 Organized by 
