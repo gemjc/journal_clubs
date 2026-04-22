@@ -35,13 +35,15 @@ Together, these studies support a model in which gender inequality in academia e
 Organized by Rémi Bos, INT, Marseille
 
 #### 2026-04-24, 1 p.m.
-Organized by 
+[Implicit gender stereotypes in STEM: measuring cognitive bias and group differences through reaction times](https://link.springer.com/article/10.1186/s40594-025-00541-7)
+
+Organized by Antoine Grimaldi
 
 #### 2026-05-29, 1 p.m.
 Organized by 
 
 #### 2026-06-26, 1 p.m.
-Organized by 
+Session to share initiatives between different institutes
 
 ## Proposed articles
 
