@@ -20,6 +20,10 @@ Presented by Antoine Grimaldi
 
 #### 2026-02-27, 1 p.m.
 [Quantifying Gender Bias in Large Language Models Using Information-Theoretic and Statistical Analysis](https://www.mdpi.com/2078-2489/16/5/358)
+Since the launch of ChatGPT in 2022, large language models (LLMs) have been reshaping our everyday life. This widespread usage also raises the question of potential harm, as our reliance on these tools makes them perfect for influencing and manipulating large crowds, spreading societal damage on a large scale. There are methods to scientifically evaluate and quantify the gender bias in language models, which all rely on giving specific inputs that force the model to reveal assumptions. They usually make statements or questions where genders are blurred or omitted, and ask the model to give outputs about which is the correct gender to use in the given context.
+The authors in turn introduce the "Perfect Persona" approach, which is used to assign genders to different job titles. The task is iterated, giving rise again to a statistical probability of gender assumptions. The authors then compared their empirical results across widely used LLMs (Meta Llama, ChatGPT, Gemini and Claude models) to equal statistical distribution to reveal a skew in the models.
+They found striking differences across language models: ChatGPT was the closest to equal probabilities to each gender, while the other models produced highly female-dominant assumptions for all the 188 job titles reported. They also included “non-binary” as gender class, which was strikingly underrepresented in all models. Interestingly, the models managed to reach a near equal probability situation, when specifically instructed so.
+
 Organized by Attila Ignacz
 
 #### 2026-03-27, 1 p.m. : Parenthood in academia
