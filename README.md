@@ -6,6 +6,36 @@ Visio link : https://visio.numerique.gouv.fr/nco-acff-qza
 
 ## Future dates 
 
+#### 2026-09-25, 1 p.m.
+Session to share initiatives between different institutes
+
+#### 2026-10-30, 1 p.m.
+[Claims of sex-dependent effects in the behavioral and brain sciences are infrequently supported by valid statistical comparisons, Olivier et al. 2026](https://www.pnas.org/doi/10.1073/pnas.2608703123)
+
+#### 2026-11-30, 1 p.m.
+
+#### 2026-10-30, 1 p.m.
+
+#### 2026-11-27, 1 p.m.
+
+#### 2027-01-29, 1 p.m.
+
+#### 2027-02-26, 1 p.m.
+
+#### 2027-03-26, 1 p.m.
+
+#### 2027-04-30, 1 p.m.
+
+#### 2027-05-28, 1 p.m.
+
+#### 2027-06-25, 1 p.m.
+
+## Proposed articles
+
+## Previous sessions
+
+### 2025-2026 :
+
 #### 2025-11-28, 1 p.m.
 ["Who Has to Work Harder, Girls or Boys?" Children's Gender Stereotypes About Required Effort in Math and Reading, Lassetter et al., 2025](https://onlinelibrary.wiley.com/doi/10.1111/desc.70025)\
 This work explores how gender stereotypes emerge from an early age and affect women's pursuit of prestigious careers. Previous research has shown that these stereotypes are endorsed by, and influence the interests of, children as young as six [(Bian et al., 2017)](https://www.science.org/doi/full/10.1126/science.aah6524). In this article, the authors examine the relationship between the effort required in maths and reading, and self-efficacy, interest, and anxiety in these subjects, as well as how these factors evolve with age. Younger children reported that effort was less of a requirement for their own gender than for others, but this effect disappeared in older children. Children who believed that their gender needed to work harder to be good at a subject also reported lower self-efficacy in that subject. Older children reported lower interest in it. 
@@ -42,16 +72,6 @@ Organized by Rémi Bos, INT, Marseille
 [Implicit gender stereotypes in STEM: measuring cognitive bias and group differences through reaction times](https://link.springer.com/article/10.1186/s40594-025-00541-7)
 
 Organized by Antoine Grimaldi
-
-#### 2026-05-29, 1 p.m.
-Organized by 
-
-#### 2026-06-26, 1 p.m.
-Session to share initiatives between different institutes
-
-## Proposed articles
-
-## Previous sessions
 
 ### 2024-2025 :
 
