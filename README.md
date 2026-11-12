@@ -4,13 +4,36 @@ A series of online journal clubs focusing on gender equity issues, specifically 
 
 Visio link : https://visio.numerique.gouv.fr/nco-acff-qza 
 
-## Future dates 
+## Ongoing : 2026-2027
 
 #### 2026-09-25, 1 p.m.
-Session to share initiatives between different institutes
+Session to share initiatives between different institutes. Very brief summary: 
+**CerCo** : 
+- organization of training with [Coop-Egal](https://www.coop-egal.fr/former/) for the whole the lab
+- organization of internships/visits for collège and lycée students, with women researchers involved
+- rediffusion of this journal club to meet physically in the lab and provide an easy acces to awereness regarding these issues
+
+**ICM** :
+- neuroscience for equity : ressearch to understand and dismantle implicit gender bias
+- measuring gender equity in decision-making committees to track evolution of representation of men/women
+- organizing [GEM workshop](https://institutducerveau.org/symposium-gender-equity-movement)
+- initiation of this monthly journal club
+- Gender Equity Committee + [Charte parité](https://institutducerveau.org/media/21/download?inline=1)
+
+**INT** :
+- discussions and presentations during new comers' day
+- organization of workshop of verbal self-defence with priority access for early career women
+- monthly meetings open to everyone in INT
+- training of the member of the committee : CNRS COREGAL and AMU (sexual violence prevention) train-the-trainer programme by Isabelle Régner (stereotypes and equity at work)
+- lactation room project
+- Forum Theatre (Synergie) : three interactive sessions addressed LGBTphobic and racist discrimination in higher education and gender-based and sexual violence at work
+- training for monitoring women's representation through leadership and recruitement
+- 'sexist phrases' initiative : anonymous collection + reading them at the lab retreat
+
 
 #### 2026-10-30, 1 p.m.
-[Claims of sex-dependent effects in the behavioral and brain sciences are infrequently supported by valid statistical comparisons, Olivier et al. 2026](https://www.pnas.org/doi/10.1073/pnas.2608703123)
+[Claims of sex-dependent effects in the behavioral and brain sciences are infrequently supported by valid statistical comparisons, Olivier et al. 2026](https://www.pnas.org/doi/10.1073/pnas.2608703123)\
+Historically women and non-human female mammals are underrepresented in biomedical research based on fasle beliefs. To counter balance it, some policies have been set up (**US** 1993: NIH revitalization act, 2016 : SABV NIH policy - **Canada** 2009 : SGBA CIHR policy - **Europe** 2020 : Horizon Europe Strategic Plan (recommandations) - **International** 2016 : SAGER guidelines) but this imbalance still persists. This article questions the validity of statistical comparisons regading claims of sex-dependent effect when recommandations for a balanced representation and inclusion of sex as a biological variable (sex and (binary) gender are arbitrarily confounded). This study includes 200 articles from different brain and behavioral sciences fields with claims of sex-dependent effects in their titles. Only 24% provide a correct statistical analysis aligned with the claim of the article. The quality of the analysis is not impacted by the journals' reputation. For neurosciences in particular, there is an strikingly increasing trend to report claims of sex dependence in the title but it is the field with the smallest report of appropriate evidence supporting the claim. These issues can come from a lack of training to include sex as a biological variable, maybe from the report of an ah hoc analysis of sex-effects in the lack of main results that is suggested to be reported as 'exploratory' but not as the main finding. Such claims without appropriate evidence can lead to the spreading and amplification of false beliefs in the scientific community but also in society. 
 
 #### 2026-11-30, 1 p.m.
 
